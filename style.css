@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: aqua;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-width {
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: 43.5px;
+    margin-left: 15%;
+    padding-left: 2%;
+}
+.half-width h1{
+    font-weight: bold;
+    margin-bottom: 43.5px;
+    font-size: 50px;
+}
+.half-width h1 span{
+    color: orange;
+}
+.half-width-right{
+    margin-bottom: 43.5px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.bg{
+    background-image: url(images/);
+}
